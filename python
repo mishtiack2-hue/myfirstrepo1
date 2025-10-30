@@ -1,0 +1,27 @@
+Program 1: Area of a Triangle
+► base = 10
+► height = 5
+► area = 0.5 * base * height
+► print("Area of Triangle:", area)
+► Output:
+► Area of Triangle: 25.0
+
+Program 2: Largest of Two
+Numbers
+► a, b = 15, 25
+► if a > b:
+► print("Largest:", a)
+► else:
+► print("Largest:", b)
+► Output:
+► Largest: 2
+
+Program 3: Swapping of Two
+Numbers
+► x, y = 5, 10
+► print("Before Swap: x =", x, " y =", y)
+► x, y = y, x
+► print("After Swap: x =", x, " y =", y)
+► Output:
+► Before Swap: x = 5 y = 10
+► After Swap: x = 10 y = 5
